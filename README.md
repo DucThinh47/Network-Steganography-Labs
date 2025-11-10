@@ -1,2 +1,20 @@
-# Network-Steganography-Labs
-Danh sách các bài labs về chủ đề giấu tin trong mạng
+# DANH SÁCH CÁC BÀI LABS VỀ CÁC KỸ THUẬT GIẤU TIN TRONG MẠNG
+## Mục lục
+- [Lab 1: Giấu tin trong mạng sử dụng kỹ thuật điều chỉnh LSB của các trường header TCP]()
+    - [Lý thuyết]()
+    - [Thực hành]()
+- [Lab 2: ]()
+    - [Lý thuyết]()
+    - [Thực hành]()
+- [Lab 3: ]()
+    - [Lý thuyết]()
+    - [Thực hành]()
+- [Lab 4: ]()
+    - [Lý thuyết]()
+    - [Thực hành]()
+- [Lab 5: ]()
+    - [Lý thuyết]()
+    - [Thực hành]()
+- [Lab 6: ]()
+    - [Lý thuyết]()
+    - [Thực hành]()
