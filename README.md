@@ -1,4 +1,5 @@
-# DANH SÁCH CÁC BÀI LABS VỀ CÁC KỸ THUẬT GIẤU TIN TRONG MẠNG
+# DANH SÁCH CÁC BÀI LAB VỀ CÁC KỸ THUẬT GIẤU TIN TRONG MẠNG
+Đây là danh sách các bài lab về chủ đề các kỹ thuật giấu tin trong mạng, được thiết kế qua nền tảng labtainer nhằm mục đích giúp tìm hiểu về một số các kỹ thuật giấu tin trong mạng mà tin tặc có thể sử dụng. 
 ## Mục lục
 - [Lab 1: Giấu tin trong mạng sử dụng kỹ thuật điều chỉnh LSB của các trường header TCP]()
     - [Lý thuyết]()
